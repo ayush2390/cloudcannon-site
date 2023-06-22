@@ -1,10 +1,9 @@
 ---
-name: Ayush Thakur Template
-subtitle: Not for profit template for Jekyll
-external_url: https://github.com/CloudCannon/cause-jekyll-template
-image_path: /images/clients/cause.jpg
+name: 'Ayush Thakur '
+subtitle: Template 1
+external_url: https://github.com/ayush2390
+image_path: /uploads/25231.png
 ---
-
 Not for profit themed template for Jekyll. Browse through a [live demo](https://clean-oryx.cloudvent.net/).
 Increase the web presence of a not for profit or cause website with this configurable theme.
 
