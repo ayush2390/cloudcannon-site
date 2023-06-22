@@ -1,11 +1,10 @@
 ---
 _schema: default
-name: Hydra Template
-external_url: https://github.com/CloudCannon/hydra-jekyll-template
-image_path: /images/clients/hydra.png
+name: Showwcase
+external_url: https://www.showwcase.com/ayush2390
+image_path: /uploads/1633746807779.jpg
 visible: true
 ---
-
 Marketing site template for Jekyll. Browse through a [live demo](https://proud-alligator.cloudvent.net/). Increase the web presence of your brand with this configurable theme.
 
 Hydra was made by [CloudCannon](https://cloudcannon.com/), the Cloud CMS for Jekyll.
