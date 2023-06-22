@@ -1,6 +1,6 @@
 ---
-name: 'Ayush Thakur '
-subtitle: Template 1
+name: GitHub
+subtitle: GitHub Profile
 external_url: https://github.com/ayush2390
 image_path: /uploads/25231.png
 ---
