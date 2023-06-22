@@ -1,10 +1,9 @@
 ---
-name: Frisco Template
-subtitle: App marketing template for Jekyll
-external_url: https://github.com/CloudCannon/frisco-jekyll-template
-image_path: /images/clients/frisco.jpg
+name: LinkedIn
+subtitle: LinkedIn Profile
+external_url: https://www.linkedin.com/in/ayush2390/
+image_path: /uploads/174857.png
 ---
-
 App promotion themed template for Jekyll. Browse through a [live demo](https://brave-submarine.cloudvent.net/).
 Increase the web presence of a App with this configurable theme.
 

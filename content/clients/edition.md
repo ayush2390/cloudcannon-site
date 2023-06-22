@@ -1,11 +1,10 @@
 ---
-name: Edition Template
-subtitle: Product documentation template for Jekyll
-external_url: https://github.com/CloudCannon/edition-jekyll-template
-image_path: /images/clients/edition.png
+name: Twitter
+subtitle: Twitter Profile
+external_url: https://twitter.com/JSAyushThakur
+image_path: /uploads/logo-of-twitter-svg.png
 _schema: default
 ---
-
 Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
 Start documenting your product, application, service or website with this configurable theme.
 
