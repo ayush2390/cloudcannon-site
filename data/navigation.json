@@ -1,11 +1,11 @@
 {
 	"links": [
 		{
-			"name": "Portfolio",
+			"name": "home",
 			"link": "/portfolio/"
 		},
 		{
-			"name": "Blog",
+			"name": "Blogs",
 			"link": "/blog/"
 		},
 		{
